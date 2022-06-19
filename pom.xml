@@ -7,7 +7,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.0.4.RELEASE</version> <!-- lookup parent from repository -->
-        <relativePath />
+        <relativePath/>
     </parent>
 
 
@@ -97,7 +97,7 @@
 <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
-    <version>5.3.15.Final</version>
+    <version>5.6.9.Final</version>
 </dependency>
 <dependency>
     <groupId>com.thoughtworks.xstream</groupId>
@@ -448,7 +448,7 @@
     <dependency>
         <groupId>org.hibernate</groupId>
         <artifactId>hibernate-core</artifactId>
-        <version> 5.3.15.Final</version>
+        <version>5.6.9.Final</version>
     </dependency>
     <dependency>
         <groupId>cn.hutool</groupId>
